@@ -1,0 +1,1 @@
+# This is a simple CRUD application built with FastAPI for learning purposes!
